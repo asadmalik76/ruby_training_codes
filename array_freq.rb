@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 def random_array(size, lower, upper)
   arr = []

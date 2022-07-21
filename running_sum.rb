@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 def running_sum(arr)
   size = arr.size()
